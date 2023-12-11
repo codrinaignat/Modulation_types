@@ -12,3 +12,7 @@ Functionalities:
 - the implemented modulation types are: AM, FM, PM, ASK, FSK, PSK, QAM, PAM, PWM, PPM, PCM;
 - you can set the parameters values from the main user interface (which opens when you run Apl6.m file);
 - you can see the modulating, carrier and modulated signals in different plots. Also you will see the spectrum for some types of signals.
+
+Full documentation of the project in Romanian:
+
+https://electronicaplicata.wordpress.com/2023/12/03/software-defined-radio-sdr-pentru-incepatori-aplicatii-si-explicatii/
